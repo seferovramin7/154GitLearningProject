@@ -1,2 +1,2 @@
 # 154GitLearningProject
-We want tp learn GIT
+We want to learn GIT
